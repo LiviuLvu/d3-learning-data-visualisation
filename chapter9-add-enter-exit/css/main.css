@@ -1,0 +1,10 @@
+.bar {
+   display: inline-block;
+   width: 20px;
+   height: 75px;
+   margin-right: 2px;
+   background-color: teal;
+}
+div{
+   padding-bottom: 10px;
+}
